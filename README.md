@@ -8,5 +8,5 @@
 * Решить проблему с большим количеством ячеек. (Из-за создания большого количества элементов UI в списке, фпс на слабых устройствах будет сильно проседать. Разрешается использовать сторонние библиотеки, плагины)
 
 ## Комментарии к решению 
-Был использован Recyclable Scroll Rect (ссылки [https://assetstore.unity.com/packages/tools/gui/recyclable-scroll-rect-optimized-list-grid-view-178560](на него в assetstore) и [https://github.com/MdIqubal/Recyclable-Scroll-Rect](на исходники на github)).
+Был использован Recyclable Scroll Rect (ссылки [на него в assetstore](https://assetstore.unity.com/packages/tools/gui/recyclable-scroll-rect-optimized-list-grid-view-178560) и [на исходники на github](https://github.com/MdIqubal/Recyclable-Scroll-Rect)).
 Данные про прользователей считываются из файла Assets/data.json, содержимое файла взято из примера, который шел вместе с тестовым.
